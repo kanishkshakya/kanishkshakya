@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kanishkshakya
+- 👋 Hi, I’m kanishk shakya
 - 👀 I’m interested in doing web development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web development projects to learn more.
